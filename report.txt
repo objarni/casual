@@ -3,4 +3,4 @@ Alien
 Year: 1979
 Director: Ridley Scott
 IMDB grade: 8.5
-Stars: Sigourney Weaver, Tom Skerritt, John Hurt
+Stars: Sigourney Weaver, Tom Skeritt, John Hurt
