@@ -1,5 +1,5 @@
-Casual - examples of mundance programming tasks in X languages
-==============================================================
+Casual - examples of mundane programming tasks in X languages
+=============================================================
 
 
 Why?
@@ -17,20 +17,18 @@ one page of code (no more!).
 
 Any and all of the examples should:
 
-1. Read input.json --> A
-2. Include an in-code object literal
-   equal to input.json content --> B
+1. Object literal --> A
+2. Parse inputJSON --> B
 3. Produce a text string from A and B --> Atxt, Btxt
 4. Verify Atxt == Btxt
 5. Produce a text report from A --> Areport
-6. Verify Areport equals content of report.txt
+6. Verify Areport equals report_str
 
 
 What?
 -----
 * Looping over lists
 * Writing object literals, including lists, string properties
-* Reading and writing text files
-* Reading and writing JSON files
+* Reading JSON string
 * Asserting
 * Interpolating and concatenating string
