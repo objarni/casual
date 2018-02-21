@@ -9,6 +9,12 @@ differences annoy me to have to google all the time. IntelliSense
 does not help with how to write an object literal, or a for-loop!
 
 
+Dogma
+-----
+ - All examples should be contained within one page of code
+ - The examples should show 'conventional programming' in each language
+
+
 How?
 ----
 X number of self-verifying input files in different languages
